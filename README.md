@@ -9,9 +9,9 @@
 ---
 
 <br>
-<h2 style="font-size:16px;">  
-Thanks for being here! Here are some flowers for you!   
-</h2>
+<p style="font-size:16px;">  
+<b>Thanks for being here! Here are some flowers for you!</b>  
+</p>
 <br>
 <p style="font-size:16px;">  
 🌸 🌺 🌷 🌸 🌺 🌷 🌸 🌺 🌷 🌸 🌺 🌷 🌸 🌺 🌷 🌸 🌺 🌷🌸 🌺 🌷🌸 🌺 🌷🌸 🌺 🌷🌸 🌺 🌷 🌸 🌺 🌷🌸 🌺 🌷
@@ -20,19 +20,22 @@ Thanks for being here! Here are some flowers for you!
 <br>
 <h2 align="center" style="color:#ffb7c5;">🌸 about me 🌸</h2>
 <p style="font-size:16px;"> 
-Hi! I'm Pranjal Singh, a graduate student at <b>Michigan State University</b>, currently pursuing a PhD in Physics. I'm a self-proclaimed crocher :crown:, bookwormer :book:, going on walks-er :walking:, gym-girly :nail_care: :muscle:, ocasional coder :computer:, and sometimes a chef :stew: (if I get the seasonings ratio right). 
-<br>
+Hi! I'm Pranjal Singh, a graduate student at <b>Michigan State University</b>, currently pursuing a PhD in Physics. 
 <em>GO GREEN!</em> 
 </p>
-<br>
-<img src="https://github.com/user-attachments/assets/285d7cac-2963-4b39-a23a-3b719112084b" width="220" height="220" style="border-radius:50%; box-shadow: 0 0 10px #ffd6e0;"/>
 
+<img src="https://github.com/user-attachments/assets/285d7cac-2963-4b39-a23a-3b719112084b" width="220" height="220" style="border-radius:50%; box-shadow: 0 0 10px #ffd6e0;"/>
+<br>
+<p>
+I'm a self-proclaimed crochet-er :crown:, bookwormer :book:, going on walks-er :walking:, gym-girly :nail_care: :muscle:, ocasional coder :computer:, and sometimes a chef :stew: (if I get the seasonings ratio right). </p>
 <br>
 <p style="font-size:15px;">  
 Through computational work for my research, I've really come to enjoy learning new coding languages and working on projects in them.  
 <br>
-I'm currently working on a personal website (i swear i'm getting there 😭 — it's *sigh* progressing slowly.)  
+I'm currently working on a personal website (i swear i'm getting there 😭 — it's *sigh* progressing slowly). But for now...here is how you can reach me :blush:
 </p>
+
+
 
 <hr style="width:60%; border: 1px solid #ffb7c5;">
 
