@@ -67,7 +67,8 @@ Over the past few years, I have spent time developing the following tech skills:
   <p>Before I go... I'll leave you with a happy goodbye</p>
   <br>
   <img src="https://github.com/user-attachments/assets/ecc1f236-d0be-4358-a932-8d70da6ab13a" width="100%"/>
-
+  <br>
+  <p>... or not *muahahaha* </p>
 </div>
 <!-- <img src="https://github.com/user-attachments/assets/336cdb2f-c593-43f2-9e82-1c8484743b4b" width="220"> -->
 
