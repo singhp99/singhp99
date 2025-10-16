@@ -2,14 +2,13 @@
 
 <h2 style="color:pink; font-family: Verdana, sans-serif;">You've entered 1000+ aura env</h2>
 
-<img src="https://github.com/user-attachments/assets/e35d10a0-6d25-493f-b7cb-7171f9b0a7fc" width="100%" height="10" style="border-radius:50%; box-shadow: 0 0 10px #ffd6e0;"/>
+<img src="https://github.com/user-attachments/assets/56ae429b-65a0-480b-a70f-c418033f6678" width="100%"  style="border-radius:50%; box-shadow: 0 0 10px #ffd6e0;"/>
 
 
+
+<img src="https://github.com/user-attachments/assets/2b54dd28-b370-4329-96eb-e621a67fd48e" width="100%" height="10%" style="border-radius:50%; box-shadow: 0 0 10px #ffd6e0;"/>
 <br>
 
-<div align="center">
-<img src="https://github.com/user-attachments/assets/eca3b2a2-da7c-45aa-a408-3533b2ec2835" width="100%" style="border-radius:50%; box-shadow: 0 0 10px #ffd6e0;"/>
-</div>
 
 <br>
 <p style="font-size:16px;">  
