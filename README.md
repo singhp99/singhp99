@@ -1,6 +1,6 @@
 <div align="center">
 
-<h2 style="color:pink; font-family: Verdana, sans-serif;">You've entered 1000+ aura zone</h2>
+<h2 style="color:pink; font-family: Verdana, sans-serif;">You've entered the 100000+ aura zone</h2>
 
 <img src="https://github.com/user-attachments/assets/56ae429b-65a0-480b-a70f-c418033f6678" width="100%"/>
 <br>
