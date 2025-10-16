@@ -2,11 +2,14 @@
 
 <h2 style="color:pink; font-family: Verdana, sans-serif;">You've entered 1000+ aura env</h2>
 
-<img src="https://github.com/user-attachments/assets/d049675f-3743-4a1f-b1f5-c5f0bbc176c8" width="100%" style="border-radius:50%; box-shadow: 0 0 10px #ffd6e0;"/>
+<img src="https://github.com/user-attachments/assets/e35d10a0-6d25-493f-b7cb-7171f9b0a7fc" width="100%" height="10" style="border-radius:50%; box-shadow: 0 0 10px #ffd6e0;"/>
+
 
 <br>
 
----
+<div align="center">
+<img src="https://github.com/user-attachments/assets/eca3b2a2-da7c-45aa-a408-3533b2ec2835" width="100%" style="border-radius:50%; box-shadow: 0 0 10px #ffd6e0;"/>
+</div>
 
 <br>
 <p style="font-size:16px;">  
@@ -26,8 +29,9 @@ Hi! I'm Pranjal Singh, a graduate student at <b>Michigan State University</b>, c
 </p>
 
 <img src="https://github.com/user-attachments/assets/285d7cac-2963-4b39-a23a-3b719112084b" width="400" style="border-radius:50%; box-shadow: 0 0 10px #ffd6e0;"/>
-<br>
+
 <p>
+<br>
 I'm a self-proclaimed crochet-er :crown:, bookwormer :book:, going on walks-er :walking:, gym-girly :nail_care: :muscle:, ocasional coder :computer:, and sometimes a chef :stew: (if I get the seasonings ratio right). </p>
 <br>
 
@@ -37,10 +41,10 @@ Through computational work for my research, I've really come to enjoy learning n
 <br>
 I'm currently working on a personal website (i swear i'm getting there 😭 — it's *sigh* progressing... slowly). 
 <br>
-Over the past few years, I have spent time developing the following tech skills:
 </p>
 </div>
 
+<p>Over the past few years, I have spent time developing the following tech skills:</p>
 <ul>
   <li><b>Coding</b>
     <ul>
