@@ -15,7 +15,7 @@
 </p>
 <br>
 <br>
-<h2 align="center" style="color:#ffb7c5;">🌸 about me 🌸</h2>
+<h2 align="center" style="color:#ffb7c5;">🌸 About Me 🌸</h2>
 <p style="font-size:16px;"> 
 Hi! I'm Pranjal Singh, a graduate student at <b>Michigan State University</b>, currently pursuing a PhD in Physics. 
 <br>
@@ -29,16 +29,16 @@ Hi! I'm Pranjal Singh, a graduate student at <b>Michigan State University</b>, c
 I'm a self-proclaimed crochet-er :crown:, bookwormer :book:, going on walks-er :walking:, gym-girly :nail_care: :muscle:, ocasional coder :computer:, and sometimes a chef :stew: (if I get the seasonings ratio right). </p>
 <br>
 
-<h2 align="center" >🌸 My skills 🌸</h2>
+<h2 align="center" >🌸 My Skills 🌸</h2>
+
+</div>
+
 <p style="font-size:15px;">  
 Through computational work for my research, I've really come to enjoy learning new coding languages and working on projects in them.  
 <br>
 I'm currently working on a personal website (i swear i'm getting there 😭 — it's *sigh* progressing... slowly). 
 <br>
 </p>
-</div>
-
-
 Over the past few years, I have spent time developing the following tech skills:
 
 <ul>
