@@ -3,15 +3,10 @@
 <h2 style="color:pink; font-family: Verdana, sans-serif;">You've entered 1000+ aura env</h2>
 
 <img src="https://github.com/user-attachments/assets/56ae429b-65a0-480b-a70f-c418033f6678" width="100%"  style="box-shadow: 0 0 10px #ffd6e0;"/>
-
-
-
-<img src="https://github.com/user-attachments/assets/336cdb2f-c593-43f2-9e82-1c8484743b4b" width="100%" style="border-radius:50%; box-shadow: 0 0 10px #ffd6e0;"/>
 <br>
 
-
-<br>
 <p style="font-size:16px;">  
+<br>
 <b>Thanks for being here! Here are some flowers for you!</b>  
 </p>
 <br>
@@ -43,7 +38,14 @@ I'm currently working on a personal website (i swear i'm getting there 😭 — 
 </p>
 </div>
 
-<p>Over the past few years, I have spent time developing the following tech skills:</p>
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/user-attachments/assets/336cdb2f-c593-43f2-9e82-1c8484743b4b" width="220">
+    </td>
+    <td>
+Over the past few years, I have spent time developing the following tech skills:
+
 <ul>
   <li><b>Coding</b>
     <ul>
@@ -64,6 +66,10 @@ I'm currently working on a personal website (i swear i'm getting there 😭 — 
     </ul>
   </li>
 </ul>
+    </td>
+  </tr>
+</table>
+
 
 <div align="center">
 <img src="https://github.com/user-attachments/assets/eca3b2a2-da7c-45aa-a408-3533b2ec2835" width="100%" style="border-radius:50%; box-shadow: 0 0 10px #ffd6e0;"/>
