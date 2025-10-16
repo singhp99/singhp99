@@ -36,7 +36,7 @@ I'm a self-proclaimed crochet-er :crown:, bookwormer :book:, going on walks-er :
 <p style="font-size:15px;">  
 Through computational work for my research, I've really come to enjoy learning new coding languages and working on projects in them.  
 <br>
-I'm currently working on a personal website (i swear i'm getting there 😭 — it's *sigh* progressing... slowly). 
+I'm currently working on a personal website (I swear I'm getting there 😭 — it's *sigh* progressing... slowly). 
 <br>
 </p>
 Over the past few years, I have spent time developing the following tech skills:
