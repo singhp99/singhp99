@@ -1,4 +1,4 @@
-## Hi there 👋
+## hi! thanks for being here :blush: here are some flowers for you :cherry_blossom: :hibiscus: :tulip:
 
 <!--
 **singhp99/singhp99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
