@@ -1,15 +1,22 @@
 <div align="center">
 
-<span style="font-size:18px;">hi! thanks for being here 😊</span>  
-<br>
 
-<span style="color:#FFB7C5;">here are some flowers for you 🌸 🌺 🌷</span>  
-<br>
+<h2 style="color:#ffb7c5; font-family: 'Comic Sans MS', cursive;">🌸 hi! thanks for being here 🌸</h2>
 
-<span>i'm a graduate student at msu, currently pursuing a physics phd degree. go green!</span>  
-<br><br>
+<p style="font-size:16px;">  
+here are some flowers for you 🌸 🌺 🌷  
+</p>
 
-<img src="https://github.com/user-attachments/assets/285d7cac-2963-4b39-a23a-3b719112084b" width="250" height="250"/>
+
+<p style="font-size:15px;">  
+i'm a graduate student at <b>Michigan State University</b>, currently pursuing a <b>PhD in Physics</b>.  
+<br>  
+<em>go green! </em>  
+</p>
+
+<img src="https://github.com/user-attachments/assets/285d7cac-2963-4b39-a23a-3b719112084b" width="220" height="220" style="border-radius:50%; box-shadow: 0 0 10px #ffd6e0;"/>
+
+<hr style="width:60%; border: 1px solid #ffb7c5;">
 
 </div>
 <!--
