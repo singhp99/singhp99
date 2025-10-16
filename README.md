@@ -63,7 +63,7 @@ Over the past few years, I have spent time developing the following tech skills:
 </ul>
 
 <div align="center" >
-<h2>Bye bye!🧍‍♀️</h2>
+<h2>Bye Bye!🧍‍♀️</h2>
   <p>Before I go... I'll leave you with a happy ending</p>
   <br>
   <img src="https://github.com/user-attachments/assets/ecc1f236-d0be-4358-a932-8d70da6ab13a" width="100%"/>
