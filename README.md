@@ -1,18 +1,22 @@
 <div align="center">
 
-<h2 style="color:#ffb7c5; font-family: Verdana, sans-serif;">You have entered 1000+ aura env</h2>
+<h2 style="color:#ffb7c5; font-family: Verdana, sans-serif;">You,ve entered 1000+ aura env</h2>
 
 <img src="https://github.com/user-attachments/assets/eca3b2a2-da7c-45aa-a408-3533b2ec2835" width="100%" style="border-radius:50%; box-shadow: 0 0 10px #ffd6e0;"/>
+<img src="https://github.com/user-attachments/assets/d049675f-3743-4a1f-b1f5-c5f0bbc176c8" width="100%" style="border-radius:50%; box-shadow: 0 0 10px #ffd6e0;"/>
+
 <br>
+
+---
+
 <br>
 <p style="font-size:16px;">  
 Thanks for being here! Here are some flowers for you!   
 </p>
 <br>
 <p style="font-size:16px;">  
-🌸 🌺 🌷 🌸 🌺 🌷 🌸 🌺 🌷 🌸 🌺 🌷 🌸 🌺 🌷 🌸 🌺 🌷🌸 🌺 🌷🌸 🌺 🌷🌸 🌺 🌷🌸 🌺 🌷  
+🌸 🌺 🌷 🌸 🌺 🌷 🌸 🌺 🌷 🌸 🌺 🌷 🌸 🌺 🌷 🌸 🌺 🌷🌸 🌺 🌷🌸 🌺 🌷🌸 🌺 🌷🌸 🌺 🌷 🌸 🌺 🌷🌸 🌺 🌷
 </p>
-<br>
 <br>
 <p style="font-size:16px;"> 
 I'm a graduate student at <b>Michigan State University</b>, currently pursuing a phd in physics.  
@@ -20,10 +24,8 @@ I'm a graduate student at <b>Michigan State University</b>, currently pursuing a
 <em>GO GREEN!</em> 
 </p>
 <br>
-<br>
 <img src="https://github.com/user-attachments/assets/285d7cac-2963-4b39-a23a-3b719112084b" width="220" height="220" style="border-radius:50%; box-shadow: 0 0 10px #ffd6e0;"/>
 
-<br>
 <br>
 <p style="font-size:15px;">  
 Through computational work for my research, I've really come to enjoy learning new coding languages and working on projects in them.  
