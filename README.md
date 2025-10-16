@@ -6,11 +6,11 @@
 <br>
 <br>
 <p style="font-size:16px;">  
-Thanks for being here! Here are some flowers for you! 🌸 🌺 🌷  
+Thanks for being here! Here are some flowers for you!   
 </p>
 <br>
 <p style="font-size:16px;">  
-🌸 🌺 🌷 🌸 🌺 🌷 🌸 🌺 🌷 🌸 🌺 🌷 🌸 🌺 🌷 🌸 🌺 🌷  
+🌸 🌺 🌷 🌸 🌺 🌷 🌸 🌺 🌷 🌸 🌺 🌷 🌸 🌺 🌷 🌸 🌺 🌷🌸 🌺 🌷🌸 🌺 🌷🌸 🌺 🌷🌸 🌺 🌷  
 </p>
 <br>
 <br>
