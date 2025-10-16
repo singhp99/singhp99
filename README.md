@@ -30,11 +30,31 @@ Hi! I'm Pranjal Singh, a graduate student at <b>Michigan State University</b>, c
 <p>
 I'm a self-proclaimed crochet-er :crown:, bookwormer :book:, going on walks-er :walking:, gym-girly :nail_care: :muscle:, ocasional coder :computer:, and sometimes a chef :stew: (if I get the seasonings ratio right). </p>
 <br>
+
+<h2 align="center" style="color:#ffb7c5;">🌸 my skills 🌸</h2>
 <p style="font-size:15px;">  
 Through computational work for my research, I've really come to enjoy learning new coding languages and working on projects in them.  
 <br>
-I'm currently working on a personal website (i swear i'm getting there 😭 — it's *sigh* progressing slowly). But for now...here is how you can reach me :blush:
+I'm currently working on a personal website (i swear i'm getting there 😭 — it's *sigh* progressing... slowly). 
+<br>
+Over the past few years, I have spent time developing the following tech skills:
 </p>
+<ul>
+      <li>Coding</li>
+        <li>Python (used exensively in my research)</li>
+        <li>HTML</li>
+        <li>CSS</li>
+        <li>Machine Learning</li>
+        <li>C++ (learning)</li>
+        <li>AWS academy (in progress)</li>
+      <li>Data Analysis</li>
+        <li>NumPy</li>
+        <li>ROOT</li>
+        <li>Mathematica</li>
+        <li>LaTeX</li>
+ </ul>
+
+
 
 
 
