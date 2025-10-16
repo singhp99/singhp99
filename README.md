@@ -26,7 +26,7 @@ Hi! I'm Pranjal Singh, a graduate student at <b>Michigan State University</b>, c
 
 <p>
 <br>
-I'm a self-proclaimed crochet-er :crown:, bookwormer :book:, going on walks-er :walking:, gym-girly :nail_care: :muscle:, ocasional coder :computer:, and sometimes a chef :stew: (if I get the seasonings ratio right). </p>
+I'm a self-proclaimed crochet-er :crown:, bookwormer :book:, going on walks-er :walking:, gym-girly :nail_care: :muscle:, occasional coder :computer:, and sometimes a chef :stew: (if I get the seasonings ratio right). </p>
 <br>
 
 <h2 align="center" >🌸 My Skills 🌸</h2>
