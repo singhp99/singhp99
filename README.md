@@ -39,25 +39,33 @@ I'm currently working on a personal website (i swear i'm getting there 😭 — 
 <br>
 Over the past few years, I have spent time developing the following tech skills:
 </p>
-* **Coding**
-  * Python — used extensively in my research  
-  * HTML  
-  * CSS  
-  * Machine Learning  
-  * C++ — learning  
-  * AWS Academy — in progress
-* **Data Analysis**
-  * NumPy  
-  * ROOT  
-  * Mathematica  
-  * LaTeX
-
-
 
 <hr style="width:60%; border: 1px solid #ffb7c5;">
 
 <img src="https://github.com/user-attachments/assets/eca3b2a2-da7c-45aa-a408-3533b2ec2835" width="100%" style="border-radius:50%; box-shadow: 0 0 10px #ffd6e0;"/>
 </div>
+
+<ul>
+  <li><b>Coding</b>
+    <ul>
+      <li>Python — used extensively in my research</li>
+      <li>HTML</li>
+      <li>CSS</li>
+      <li>Machine Learning</li>
+      <li>C++ — learning</li>
+      <li>AWS Academy — in progress</li>
+    </ul>
+  </li>
+  <li><b>Data Analysis</b>
+    <ul>
+      <li>NumPy</li>
+      <li>ROOT</li>
+      <li>Mathematica</li>
+      <li>LaTeX</li>
+    </ul>
+  </li>
+</ul>
+
 
 <!--
 **singhp99/singhp99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
