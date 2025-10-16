@@ -1,8 +1,8 @@
 <div align="center">
 
-<h1 align="center">
-  <font color="#ffb7c5">🌸 hi! thanks for being here 🌸</font>
-</h1>
+<p align="center">
+  <img src="https://img.shields.io/badge/🌸%20hi!%20thanks%20for%20being%20here%20🌸-ffb7c5?style=for-the-badge" />
+</p>
 
 <p style="font-size:16px;">  
 here are some flowers for you 🌸 🌺 🌷  
