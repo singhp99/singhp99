@@ -55,8 +55,13 @@ Over the past few years, I have spent time developing the following tech skills:
   <li><b>Data Analysis</b>
     <ul>
       <li>NumPy</li>
+      <li>Pandas</li>
       <li>ROOT</li>
       <li>Mathematica</li>
+    </ul>
+  </li>
+  <li> <b>Academic Writing</b>
+    <ul>
       <li>LaTeX</li>
     </ul>
   </li>
