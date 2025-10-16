@@ -29,7 +29,7 @@ Hi! I'm Pranjal Singh, a graduate student at <b>Michigan State University</b>, c
 I'm a self-proclaimed crochet-er :crown:, bookwormer :book:, going on walks-er :walking:, gym-girly :nail_care: :muscle:, ocasional coder :computer:, and sometimes a chef :stew: (if I get the seasonings ratio right). </p>
 <br>
 
-<h2 align="center" >🌸 my skills 🌸</h2>
+<h2 align="center" >🌸 My skills 🌸</h2>
 <p style="font-size:15px;">  
 Through computational work for my research, I've really come to enjoy learning new coding languages and working on projects in them.  
 <br>
@@ -63,10 +63,10 @@ Over the past few years, I have spent time developing the following tech skills:
 </ul>
 
 <div align="center" >
-
+<h2>Bye bye!🧍‍♀️</h2>
   <p>Before I go... I'll leave you with a happy ending</p>
   <br>
-  <img src="https://github.com/user-attachments/assets/ecc1f236-d0be-4358-a932-8d70da6ab13a"/>
+  <img src="https://github.com/user-attachments/assets/ecc1f236-d0be-4358-a932-8d70da6ab13a" width="100%"/>
 
 </div>
 <!-- <img src="https://github.com/user-attachments/assets/336cdb2f-c593-43f2-9e82-1c8484743b4b" width="220"> -->
