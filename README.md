@@ -1,10 +1,17 @@
-<span style="text-align:center;" >  hi! thanks for being here :blush: </span>
+<div align="center">
 
-<span style="color: ##FFB7C5; text-align:center;" >here are some flowers for you :cherry_blossom: :hibiscus: :tulip:</span> 
+<span style="font-size:18px;">hi! thanks for being here 😊</span>  
+<br>
 
-<span style="text-align:center;" >  i'm a graduate student at msu, currently pursuing a physics pdh degree. go green! </span>
+<span style="color:#FFB7C5;">here are some flowers for you 🌸 🌺 🌷</span>  
+<br>
 
-<img style="text-align:center;" src="https://github.com/user-attachments/assets/285d7cac-2963-4b39-a23a-3b719112084b" width="250" height="250"/>
+<span>i'm a graduate student at msu, currently pursuing a physics phd degree. go green!</span>  
+<br><br>
+
+<img src="https://github.com/user-attachments/assets/285d7cac-2963-4b39-a23a-3b719112084b" width="250" height="250"/>
+
+</div>
 <!--
 **singhp99/singhp99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
