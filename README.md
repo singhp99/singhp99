@@ -1,6 +1,6 @@
 <div align="center">
 
-<h2 style="color:#ffb7c5; font-family: Verdana, sans-serif;">You've entered 1000+ aura env</h2>
+<h2 style="color:pink; font-family: Verdana, sans-serif;">You've entered 1000+ aura env</h2>
 
 <img src="https://github.com/user-attachments/assets/d049675f-3743-4a1f-b1f5-c5f0bbc176c8" width="100%" style="border-radius:50%; box-shadow: 0 0 10px #ffd6e0;"/>
 
@@ -39,10 +39,6 @@ I'm currently working on a personal website (i swear i'm getting there 😭 — 
 <br>
 Over the past few years, I have spent time developing the following tech skills:
 </p>
-
-<hr style="width:60%; border: 1px solid #ffb7c5;">
-
-<img src="https://github.com/user-attachments/assets/eca3b2a2-da7c-45aa-a408-3533b2ec2835" width="100%" style="border-radius:50%; box-shadow: 0 0 10px #ffd6e0;"/>
 </div>
 
 <ul>
@@ -66,6 +62,9 @@ Over the past few years, I have spent time developing the following tech skills:
   </li>
 </ul>
 
+<div align="center">
+<img src="https://github.com/user-attachments/assets/eca3b2a2-da7c-45aa-a408-3533b2ec2835" width="100%" style="border-radius:50%; box-shadow: 0 0 10px #ffd6e0;"/>
+</div>
 
 <!--
 **singhp99/singhp99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
