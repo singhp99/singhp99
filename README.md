@@ -2,6 +2,8 @@
 
 <h2 style="color:#ffb7c5; font-family: Verdana, sans-serif;">🌸 hi! thanks for being here 🌸</h2>
 
+<img src="https://github.com/user-attachments/assets/eca3b2a2-da7c-45aa-a408-3533b2ec2835" width="100%" style="border-radius:50%; box-shadow: 0 0 10px #ffd6e0;"/>
+
 <p style="font-size:16px;">  
 here are some flowers for you 🌸 🌺 🌷  
 </p>
@@ -9,7 +11,7 @@ here are some flowers for you 🌸 🌺 🌷
 <p style="font-size:15px;">  
 i'm a graduate student at <b>michigan state university</b>, currently pursuing a phd in physics.  
 <br>
-<em>go green!</em> 🌿  
+<em>go green!</em> 
 </p>
 
 <img src="https://github.com/user-attachments/assets/285d7cac-2963-4b39-a23a-3b719112084b" width="220" height="220" style="border-radius:50%; box-shadow: 0 0 10px #ffd6e0;"/>
