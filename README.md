@@ -39,20 +39,18 @@ I'm currently working on a personal website (i swear i'm getting there 😭 — 
 <br>
 Over the past few years, I have spent time developing the following tech skills:
 </p>
-<ul>
-      <li>Coding</li>
-        <li>Python (used exensively in my research)</li>
-        <li>HTML</li>
-        <li>CSS</li>
-        <li>Machine Learning</li>
-        <li>C++ (learning)</li>
-        <li>AWS academy (in progress)</li>
-      <li>Data Analysis</li>
-        <li>NumPy</li>
-        <li>ROOT</li>
-        <li>Mathematica</li>
-        <li>LaTeX</li>
- </ul>
+* Coding
+      * Python (used exensively in my research)
+      * HTML
+      * CSS
+      * Machine Learning
+      * C++ (learning)
+      * AWS academy (in progress)
+* Data Analysis
+      * NumPy
+      * ROOT
+      * Mathematica
+      * LaTeX
 
 
 
