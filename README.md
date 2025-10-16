@@ -1,6 +1,6 @@
 <div align="center">
 
-<h2 style="color:#ffb7c5; font-family: Verdana, sans-serif;">🌸 hi! thanks for being here 🌸</h2>
+<h2 style="color: #ffb7c5; font-family: Verdana, sans-serif;">🌸 hi! thanks for being here 🌸</h2>
 
 <p style="font-size:16px;">  
 here are some flowers for you 🌸 🌺 🌷  
