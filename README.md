@@ -21,10 +21,11 @@
 <h2 align="center" style="color:#ffb7c5;">🌸 about me 🌸</h2>
 <p style="font-size:16px;"> 
 Hi! I'm Pranjal Singh, a graduate student at <b>Michigan State University</b>, currently pursuing a PhD in Physics. 
+<br>
 <em>GO GREEN!</em> 
 </p>
 
-<img src="https://github.com/user-attachments/assets/285d7cac-2963-4b39-a23a-3b719112084b" width="220" height="220" style="border-radius:50%; box-shadow: 0 0 10px #ffd6e0;"/>
+<img src="https://github.com/user-attachments/assets/285d7cac-2963-4b39-a23a-3b719112084b" width="400" style="border-radius:50%; box-shadow: 0 0 10px #ffd6e0;"/>
 <br>
 <p>
 I'm a self-proclaimed crochet-er :crown:, bookwormer :book:, going on walks-er :walking:, gym-girly :nail_care: :muscle:, ocasional coder :computer:, and sometimes a chef :stew: (if I get the seasonings ratio right). </p>
