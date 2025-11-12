@@ -49,8 +49,8 @@ Over the past few years, I have spent time developing the following tech skills:
       <li>HTML</li>
       <li>CSS</li>
       <li>Machine Learning</li>
+      <li>AWS Academy Cloud Foundation Training</li>
       <li>C++ — learning</li>
-      <li>AWS Academy — in progress</li>
     </ul>
   </li>
   <li><b>Data Analysis</b>
