@@ -37,7 +37,7 @@ I'm a self-proclaimed crochet-er :crown:, bookwormer :book:, going on walks-er :
 Through computational work for my research, I've really come to enjoy learning new coding languages and working on projects in them.  
 <br>
 <br>
-I'm currently working on a personal website (I swear I'm getting there 😭 — it's *sigh* progressing... slowly). 
+I'm currently working on a personal website (I swear I'm getting there 😭 — it's *sigh* progressing... slowly). But here is a website I made for a research project! You can learn more about that through <a href="https://singhp99.github.io/AT-TPC_ML_workflow/">this link</a>.
 <br>
 </p>
 Over the past few years, I have spent time developing the following tech skills:
