@@ -76,13 +76,13 @@ Over the past few years, I have spent time developing the following tech skills:
 
 <h2 align="center">🌸 Research 🌸</h2>
 <ul>
-  <li>Current</li>
+  <li><b>Current</b></li>
     <ul>
     <li>Machine learning for event classification of AT-TPC data</li>
     <li>Scientific analysis of experimental data from the AT-TPC</li>
     </ul>
 
-  <li>Past</li>
+  <li><b>Past</b></li>
     <ul>
     <li>Classical and quantum mechanical tudy of the two limits of the Plane Pendulum (simple harmonic oscillator and free motor)</li>
     <li>Investigated the presence of naturally radioactive isotopes in soils near the Mississippi river with gamme-gamma coincidence spectroscopy</li>
@@ -105,9 +105,13 @@ Over the past few years, I have spent time developing the following tech skills:
 <h2 align="center">🌸 Photography 🌸</h2>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/85fc46a0-cdb3-4cf9-b869-2cb78e877ffd" width="100%"/>
-    📷 View my VSCO!
+  <a href="https://vsco.co/pranjal31299/gallery">
+    <img src="https://github.com/user-attachments/assets/85fc46a0-cdb3-4cf9-b869-2cb78e877ffd" width="70%"/>
   </a>
+</p>
+
+<p align="center">
+  ✿ view my photography ✿
 </p>
 
 <br>
