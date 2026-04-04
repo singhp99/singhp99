@@ -80,7 +80,6 @@ Over the past few years, I have spent time developing the following tech skills:
     <ul>
     <li>Machine learning for event classification of AT-TPC data</li>
     <li>Scientific analysis of experimental data from the AT-TPC</li>
-    <li>High-throughput data pipelines (Python + HPC)</li>
     </ul>
 
   <li>Past</li>
@@ -106,6 +105,7 @@ Over the past few years, I have spent time developing the following tech skills:
 <h2 align="center">🌸 Photography 🌸</h2>
 
 <p align="center">
+  
   <a href="https://vsco.co/pranjal31299/gallery">
     📷 View my VSCO!
   </a>
