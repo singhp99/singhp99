@@ -72,16 +72,29 @@ Over the past few years, I have spent time developing the following tech skills:
 
 [![My Skills](https://skillicons.dev/icons?i=py,bash,github,html,css,latex,tensorflow,vscode,notion)](https://skillicons.dev)
 
-<h2 align="center" >🌸 Photography 🌸</h2>
-[![VSCO Icon](https://vsco.co/static/images/vsco-logo-black.svg)](https://vsco.co/pranjal31299/gallery)
+<h2 align="center">🌸 Photography 🌸</h2>
 
-<h2 align="center" >🌸 Contact Me 🌸</h2>
+<p align="center">
+  <a href="https://vsco.co/pranjal31299/gallery">
+    📷 View my VSCO
+  </a>
+</p>
 
-[![LinkedIn](https://shields.io)](www.linkedin.com/in/pranjal-singh-b9a32a198)
-[![Gmail](https://shields.io)](pranjalsingh31299@gmail.com)
-[![Instagram](https://shields.io)](https://www.instagram.com/pranjal_isw/)
+<h2 align="center">🌸 Contact Me 🌸</h2>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/pranjal-singh-b9a32a198">
+    <img src="https://img.shields.io/badge/LinkedIn-Pranjal%20Singh-blue?style=for-the-badge&logo=linkedin" />
+  </a>
 
+  <a href="mailto:pranjalsingh31299@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail" />
+  </a>
+
+  <a href="https://www.instagram.com/pranjal_isw/">
+    <img src="https://img.shields.io/badge/Instagram-Follow-purple?style=for-the-badge&logo=instagram" />
+  </a>
+</p>
 
 
 
