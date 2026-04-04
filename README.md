@@ -73,14 +73,35 @@ Over the past few years, I have spent time developing the following tech skills:
 [![My Skills](https://skillicons.dev/icons?i=py,bash,github,html,css,latex,tensorflow,vscode,notion)](https://skillicons.dev)
 
 <br>
+
+<h2 align="center">🌸 Research 🌸</h2>
+<ul>
+  <li>Current</li>
+    <ul>
+    <li>Machine learning for event classification of AT-TPC data</li>
+    <li>Scientific analysis of experimental data from the AT-TPC</li>
+    <li>High-throughput data pipelines (Python + HPC)</li>
+    </ul>
+
+  <li>Past</li>
+    <ul>
+    <li>Classical and quantum mechanical tudy of the two limits of the Plane Pendulum (simple harmonic oscillator and free motor)</li>
+    <li>Investigated the presence of naturally radioactive isotopes in soils near the Mississippi river with gamme-gamma coincidence spectroscopy</li>
+    <li>Photometric study of RR Lyrae stars using period-luminosity relationships</li>
+    </ul>
+ 
+</ul>
+
+
+
+<br>
 <h2 align="center">🌸 GitHub Stats 🌸</h2>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=singhp99&theme=rose_pine&hide_border=true" />
-  <br>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=singhp99&layout=compact" />
 </p>
 
+<br>
 
 <h2 align="center">🌸 Photography 🌸</h2>
 
