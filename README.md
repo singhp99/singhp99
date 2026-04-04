@@ -69,15 +69,21 @@ Over the past few years, I have spent time developing the following tech skills:
   </li>
 </ul>
 
+
+[![My Skills](https://skillicons.dev/icons?i=py,bash,github,html,css,latex,tensorflow,vscode,notion)](https://skillicons.dev)
+
+<h2 align="center" >🌸 Contact Me 🌸</h2>
+
+![LinkedIn](https://shields.io)
+![Gmail](https://shields.io)
+
+
 <br>
 <p style="font-size:16px;">  
 🌸 🌺 🌷 🌸 🌺 🌷 🌸 🌺 🌷 🌸 🌺 🌷 🌸 🌺 🌷 🌸 🌺 🌷🌸 🌺 🌷🌸 🌺 🌷🌸 🌺 🌷🌸 🌺 🌷 🌸 🌺 🌷🌸 🌺 🌷
 </p>
 <br>
 <br>
-
-
-[![My Skills](https://skillicons.dev/icons?i=py,bash,github,html,css,latex,tensorflow,vscode,notion,flutter&perline=3)](https://skillicons.dev)
 
 <div align="center" >
 <h2>Bye Bye!🧍‍♀️</h2>
