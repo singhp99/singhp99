@@ -76,11 +76,9 @@ Over the past few years, I have spent time developing the following tech skills:
 <h2 align="center">🌸 GitHub Stats 🌸</h2>
 
 <p align="center">
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=singhp99&theme=github-light" />
-  <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=singhp99&theme=rose_pine&hide_border=true" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhp99&layout=compact" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=singhp99&layout=compact" />
 </p>
 
 
