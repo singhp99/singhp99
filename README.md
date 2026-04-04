@@ -45,6 +45,7 @@ Over the past few years, I have spent time developing the following tech skills:
 <ul>
   <li><b>Coding</b>
     <ul>
+      <li>GitHub</li>
       <li>Python — used extensively in my research</li>
       <li>HTML</li>
       <li>CSS</li>
@@ -67,6 +68,18 @@ Over the past few years, I have spent time developing the following tech skills:
     </ul>
   </li>
 </ul>
+
+<br>
+<p style="font-size:16px;">  
+🌸 🌺 🌷 🌸 🌺 🌷 🌸 🌺 🌷 🌸 🌺 🌷 🌸 🌺 🌷 🌸 🌺 🌷🌸 🌺 🌷🌸 🌺 🌷🌸 🌺 🌷🌸 🌺 🌷 🌸 🌺 🌷🌸 🌺 🌷
+</p>
+<br>
+<br>
+
+<div align="center" >
+[![My Skills](https://skillicons.dev/icons?i=py,bash,github,html,css,latex,tensorflow,vscode,notion,flutter&perline=3)](https://skillicons.dev)
+  
+</div>
 
 <div align="center" >
 <h2>Bye Bye!🧍‍♀️</h2>
