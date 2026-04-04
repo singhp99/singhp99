@@ -72,20 +72,28 @@ Over the past few years, I have spent time developing the following tech skills:
 
 [![My Skills](https://skillicons.dev/icons?i=py,bash,github,html,css,latex,tensorflow,vscode,notion)](https://skillicons.dev)
 
+<h2 align="center" >🌸 Photography 🌸</h2>
+[![VSCO Icon](https://vsco.co/static/images/vsco-logo-black.svg)](https://vsco.co/pranjal31299/gallery)
+
 <h2 align="center" >🌸 Contact Me 🌸</h2>
 
-![LinkedIn](https://shields.io)
-![Gmail](https://shields.io)
+[![LinkedIn](https://shields.io)](www.linkedin.com/in/pranjal-singh-b9a32a198)
+[![Gmail](https://shields.io)](pranjalsingh31299@gmail.com)
+[![Instagram](https://shields.io)](https://www.instagram.com/pranjal_isw/)
 
 
+
+
+
+
+<div align="center" >
 <br>
 <p style="font-size:16px;">  
 🌸 🌺 🌷 🌸 🌺 🌷 🌸 🌺 🌷 🌸 🌺 🌷 🌸 🌺 🌷 🌸 🌺 🌷🌸 🌺 🌷🌸 🌺 🌷🌸 🌺 🌷🌸 🌺 🌷 🌸 🌺 🌷🌸 🌺 🌷
 </p>
 <br>
 <br>
-
-<div align="center" >
+  
 <h2>Bye Bye!🧍‍♀️</h2>
   <p>Before I go... I'll leave you with a happy goodbye</p>
   <br>
