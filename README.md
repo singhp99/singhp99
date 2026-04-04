@@ -137,13 +137,6 @@ Over the past few years, I have spent time developing the following tech skills:
 
 
 <div align="center" >
-<br>
-<p style="font-size:16px;">  
-🌸 🌺 🌷 🌸 🌺 🌷 🌸 🌺 🌷 🌸 🌺 🌷 🌸 🌺 🌷 🌸 🌺 🌷🌸 🌺 🌷🌸 🌺 🌷🌸 🌺 🌷🌸 🌺 🌷 🌸 🌺 🌷🌸 🌺 🌷
-</p>
-<br>
-<br>
-  
 <h2>Bye Bye!🧍‍♀️</h2>
   <p>Before I go... I'll leave you with a happy goodbye</p>
   <br>
@@ -151,5 +144,14 @@ Over the past few years, I have spent time developing the following tech skills:
   <br>
   <br>
   <p>... or not (if you know, you know) *muahahaha* </p>
+</div>
+
+ <br>
+<div align="center">=
+<p style="font-size:16px;">  
+🌸 🌺 🌷 🌸 🌺 🌷 🌸 🌺 🌷 🌸 🌺 🌷 🌸 🌺 🌷 🌸 🌺 🌷🌸 🌺 🌷🌸 🌺 🌷🌸 🌺 🌷🌸 🌺 🌷 🌸 🌺 🌷🌸 🌺 🌷
+</p>
+<br>
+<br>
 </div>
 
