@@ -111,7 +111,7 @@ Over the past few years, I have spent time developing the following tech skills:
 </p>
 
 <p align="center">
-  <a href="https://vsco.co/pranjal31299/gallery">
+  <a href="https://vsco.co/pranjal31299/gallery" style="text-decoration: none; color: inherit;">
   ✿ view my photography ✿
   </a>
 </p>
