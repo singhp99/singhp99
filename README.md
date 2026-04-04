@@ -105,8 +105,7 @@ Over the past few years, I have spent time developing the following tech skills:
 <h2 align="center">🌸 Photography 🌸</h2>
 
 <p align="center">
-  
-  <a href="https://vsco.co/pranjal31299/gallery">
+  <img src="https://github.com/user-attachments/assets/85fc46a0-cdb3-4cf9-b869-2cb78e877ffd" width="100%"/>
     📷 View my VSCO!
   </a>
 </p>
