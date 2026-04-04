@@ -76,10 +76,8 @@ Over the past few years, I have spent time developing the following tech skills:
 <br>
 <br>
 
-<div align="center" >
+
 [![My Skills](https://skillicons.dev/icons?i=py,bash,github,html,css,latex,tensorflow,vscode,notion,flutter&perline=3)](https://skillicons.dev)
-  
-</div>
 
 <div align="center" >
 <h2>Bye Bye!🧍‍♀️</h2>
