@@ -147,7 +147,7 @@ Over the past few years, I have spent time developing the following tech skills:
 </div>
 
  <br>
-<div align="center">=
+<div align="center">
 <p style="font-size:16px;">  
 🌸 🌺 🌷 🌸 🌺 🌷 🌸 🌺 🌷 🌸 🌺 🌷 🌸 🌺 🌷 🌸 🌺 🌷🌸 🌺 🌷🌸 🌺 🌷🌸 🌺 🌷🌸 🌺 🌷 🌸 🌺 🌷🌸 🌺 🌷
 </p>
