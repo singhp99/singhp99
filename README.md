@@ -1,6 +1,6 @@
 <div align="center">
 
-<h2 style="color:pink; font-family: Verdana, sans-serif;">You've entered the 100000+ aura zone</h2>
+<h2 style="color:pink; font-family: Verdana, sans-serif;">Welcome to this quest</h2>
 
 <img src="https://github.com/user-attachments/assets/56ae429b-65a0-480b-a70f-c418033f6678" width="100%"/>
 <br>
@@ -26,7 +26,7 @@ Hi! I'm Pranjal Singh, a graduate student at <b>Michigan State University</b>, c
 
 <p>
 <br>
-I'm a self-proclaimed crochet-er :crown:, bookwormer :book:, going on walks-er :walking:, gym-girly :nail_care: :muscle:, occasional coder :computer:, and sometimes a chef :stew: (if I get the seasonings ratio right). </p>
+I'm a self-proclaimed crochet-er :crown:, bookwormer :book:, going on walks-er :walking:, gym-er :nail_care: :muscle:, coder :computer:, and sometimes a chef :stew: (if I get the seasonings ratio right). </p>
 <br>
 
 <h2 align="center" >🌸 My Skills 🌸</h2>
