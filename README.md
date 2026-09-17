@@ -1,6 +1,6 @@
 <div align="center">
 
-<h2 style="color:pink; font-family: Verdana, sans-serif;">Welcome to this quest</h2>
+<h2 style="color:pink; font-family: Verdana, sans-serif;">Welcome Quester!</h2>
 
 <img src="https://github.com/user-attachments/assets/56ae429b-65a0-480b-a70f-c418033f6678" width="100%"/>
 <br>
